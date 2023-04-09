@@ -42,7 +42,7 @@ go run nome-do-arquivo.go
 - Exercicio 03<br>
 - Exercicio 04<br>
 - Exercicio 05<br>
-- Prova: [link](https://docs.google.com/forms/d/e/1FAIpQLScmMK7rjqj9SF2qTaN4Vg6mQX19YWqop7WRSfHjxZT-xbqdVQ/viewform) 
+- Prova: https://docs.google.com/forms/d/e/1FAIpQLScmMK7rjqj9SF2qTaN4Vg6mQX19YWqop7WRSfHjxZT-xbqdVQ/viewform 
 </details>
 <details>
 <summary>Capitulo 01</summary><br>
