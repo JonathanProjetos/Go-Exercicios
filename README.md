@@ -38,5 +38,9 @@ go run nome-do-arquivo.go
 - Exercícios Ninja Nível 1
 - Exercícios Ninja Nível 2
 
+## :link: Referência de conteúdo.
+ - https://www.youtube.com/@AprendaGo
+ - https://go.dev/
+
 ## :earth_americas: Contribuindo
 Sinta-se à vontade para contribuir com novos exercícios e projetos ou melhorias nos já existentes. Basta fazer um fork deste repositório, fazer as alterações necessárias e enviar uma solicitação de pull.
