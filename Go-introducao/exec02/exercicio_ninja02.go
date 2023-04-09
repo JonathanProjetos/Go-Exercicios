@@ -7,14 +7,11 @@ var x int
 var y string
 var z bool
 
-func main () {
-    x = 100
-    y = "Jonathan Jhon"
-    z = true
+func main () { 
 
-	fmt.Println(x)
-    fmt.Println(y)
-    fmt.Println(z)
+	fmt.Printf("%v, %T\n", x, x)
+    fmt.Printf("%v, %T\n", y, y)
+    fmt.Printf("%v, %T\n", z, z)
 }
 
 
