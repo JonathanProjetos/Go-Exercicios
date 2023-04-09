@@ -36,9 +36,10 @@ go run nome-do-arquivo.go
 
 ## :open_file_folder: Lista de exercícios
 <details>
-<summary>Exercicios 01</summary><br>
-<summary>Exercicios 02</summary><br>
-<summary>Exercicios 03</summary><br>
+<summary>Exercicios Adicionados</summary><br>
+- Exercicio 01<br>
+- Exercicio 02<br>
+- Exercicio 03<br>
  
 </details>
 
