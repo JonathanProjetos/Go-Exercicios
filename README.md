@@ -35,8 +35,12 @@ go run nome-do-arquivo.go
 ```
 
 ## :open_file_folder: Lista de exercícios
-- Exercícios Ninja Nível 1
-- Exercícios Ninja Nível 2
+<details>
+<summary>Exercicios 01</summary><br>
+<summary>Exercicios 02</summary><br>
+<summary>Exercicios 03</summary><br>
+ 
+</details>
 
 ## :link: Referência de conteúdo.
  - https://www.youtube.com/@AprendaGo
