@@ -54,6 +54,16 @@ go run nome-do-arquivo.go
 - Exercicio 06<br>
 - Prova: https://docs.google.com/forms/d/e/1FAIpQLSerPix-DjmElHFdXCz2cGJKqOfJEmnjkMTxxmWNVEVW-Tki5g/viewform
 </details>
+<details>
+<summary>Capitulo 03</summary><br>
+- Exercicio 01<br>
+- Exercicio 02<br>
+- Exercicio 03<br>
+- Exercicio 04<br>
+- Exercicio 05<br>
+- Exercicio 06<br>
+- Exercicio 07<br>
+</details>
 
 ## :link: Referência de conteúdo.
  - https://www.youtube.com/@AprendaGo
