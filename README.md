@@ -46,7 +46,13 @@ go run nome-do-arquivo.go
 </details>
 <details>
 <summary>Capitulo 02</summary><br>
-
+- Exercicio 01<br>
+- Exercicio 02<br>
+- Exercicio 03<br>
+- Exercicio 04<br>
+- Exercicio 05<br>
+- Exercicio 06<br>
+- Prova: https://docs.google.com/forms/d/e/1FAIpQLSerPix-DjmElHFdXCz2cGJKqOfJEmnjkMTxxmWNVEVW-Tki5g/viewform
 </details>
 
 ## :link: Referência de conteúdo.
