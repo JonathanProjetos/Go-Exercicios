@@ -35,8 +35,9 @@ go run nome-do-arquivo.go
 ```
 
 ## :open_file_folder: Lista de exercícios
- - Fluxograma das atividades.
+
 <details>
+<summary>Fluxograma das atividades</summary><br>
 <details>
 <summary>Capitulo 01</summary><br>
 - Exercicio 01<br>
