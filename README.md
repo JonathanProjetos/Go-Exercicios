@@ -75,6 +75,7 @@ go run nome-do-arquivo.go
 - Exercicio 00<br>
 </details>
 </details>
+
 ## :link: Referência de conteúdo.
  - https://www.youtube.com/@AprendaGo
  - https://go.dev/
