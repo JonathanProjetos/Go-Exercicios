@@ -35,6 +35,8 @@ go run nome-do-arquivo.go
 ```
 
 ## :open_file_folder: Lista de exercícios
+ - Fluxograma das atividades.
+<details>
 <details>
 <summary>Capitulo 01</summary><br>
 - Exercicio 01<br>
@@ -71,7 +73,7 @@ go run nome-do-arquivo.go
 <summary>Capitulo 04</summary><br>
 - Exercicio 00<br>
 </details>
-
+</details>
 ## :link: Referência de conteúdo.
  - https://www.youtube.com/@AprendaGo
  - https://go.dev/
