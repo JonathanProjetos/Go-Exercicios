@@ -91,6 +91,10 @@ go run nome-do-arquivo.go
 - Exercicio 03<br>
 - Exercicio 04<br>
 </details>
+<details>
+<summary>Capitulo 06</summary><br>
+- Exercicio 01<br>
+</details>
 </details>
 
 ## :link: Referência de conteúdo.
