@@ -97,6 +97,13 @@ go run nome-do-arquivo.go
 - Exercicio 02<br>
 - Exercicio 03<br>
 - Exercicio 04<br>
+- Exercicio 05<br>
+- Exercicio 06<br>
+- Exercicio 07<br>
+- Exercicio 08<br>
+- Exercicio 09<br>
+- Exercicio 10<br>
+
 </details>
 </details>
 
