@@ -103,7 +103,14 @@ go run nome-do-arquivo.go
 - Exercicio 08<br>
 - Exercicio 09<br>
 - Exercicio 10<br>
-
+</details>
+<details>
+<summary>Capitulo 07</summary><br>
+- Exercicio 01<br>
+- Exercicio 02<br>
+</details>
+<summary>Capitulo 08</summary><br>
+- Exercicio 01<br>
 </details>
 </details>
 
