@@ -112,6 +112,10 @@ go run nome-do-arquivo.go
 <details>
 <summary>Capitulo 08</summary><br>
 - Exercicio 01<br>
+- Exercicio 02<br>
+- Exercicio 03<br>
+- Exercicio 04<br>
+- Exercicio 05<br>
 </details>
 </details>
 
